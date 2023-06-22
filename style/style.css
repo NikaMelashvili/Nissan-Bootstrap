@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    transition: .5s ease-in-out;
+  
+    margin: auto;
+}
+.about-section{
+    padding: 2%;
+}
+.second-large{
+    padding-top: 5%;
+}
+.about-container,
+.about-container p{
+    line-height: 35px;
+}
+.about-container h2{
+    margin-top: 100px;
+}
+.card-dark{
+    background-color: #222;
+    transition: 0.5s ease-in-out;
+    color: white;
+}
+.cards-row{
+    justify-content: center;
+}
+main{
+    padding-bottom: 5%;
+}
+.foot{
+    background-color: #222;
+}
+.foot ul{
+    display: flex ;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: center;
+    padding: 5%;
+}
+.foot ul li a{
+    text-decoration: none;
+    list-style-type: none;
+    color: #f2f2f2;
+    margin: 20px;
+}
+.foot ul li a:hover{
+    color: grey;
+}
+/* .card{
+    margin: 1%;
+    width: 30%;
+} */
+.second-hand-cars{
+    padding-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.second-hand-cars 
+.text-second-hand p{
+    line-height: 2rem;
+}
+.product{
+    position: relative;
+    left: 3%;
+}
+.pic-second-hand img{
+    width: 100%;
+    padding-top: 30px;
+}
+.dark-btn{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: fixed;
+    right: 7%;
+    bottom: 10%;
+}
+.fa-moon{
+    color: #f2f2f2;
+    position: relative;
+    top: 20%;
+    left: 35%;
+}
+.dark {
+    background-color: #050505;
+    color: white;
+}
