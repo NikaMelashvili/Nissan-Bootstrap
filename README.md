@@ -1,4 +1,3 @@
 # Nissan-Bootstrap
 
-A simple BootStrap website I had to build
-on a 2 hour notice
+A simple BootStrap website. I also have a react version of this website that also uses bootstrap.
