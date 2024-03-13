@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 
 # Getting familiar with vite
-using a css framework(bootstrap) with react
+using a css framework(bootstrap) with react.
